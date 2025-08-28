@@ -1,5 +1,4 @@
 ### UnityC#でのゲーム開発を学習中
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0f0f0f&width=450&lines=I'm+5unad0ke1+now.;Nice+meeting+you.)](https://git.io/typing-svg)
 <img src="https://github-readme-stats.vercel.app/api?username=5unad0ke1&show_icons=true&locale=en&theme=dark" alt="ovi" width="450" /></p>
 
 <!--
