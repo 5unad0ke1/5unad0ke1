@@ -1,4 +1,7 @@
 ### UnityC#でのゲーム開発を学習中
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&width=450&lines=Welcome+to+my+profile.;I'm+5unad0ke1.;Nice+meeting+you."alt = "Mystic Welcome">
+</p>
 <img src="https://github-readme-stats.vercel.app/api?username=5unad0ke1&show_icons=true&locale=en&theme=dark" alt="ovi" width="450" /></p>
 
 <!--
