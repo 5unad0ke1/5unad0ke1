@@ -7,9 +7,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=5unad0ke1&show_icons=true&locale=en&theme=dark" alt="ovi" width="450" /></p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=5unad0ke1&theme=aura)
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=5unad0ke1.5unad0ke1&"  />
 </div>
+
 
 ---
 
