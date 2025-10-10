@@ -5,7 +5,10 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=5unad0ke1&show_icons=true&locale=en&theme=dark" alt="ovi" width="450" /></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=5unad0ke1&show_icons=true&locale=en&theme=dark" alt="ovi" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5unad0ke1&show_icons=true&locale=en&theme=dark" alt="ovi" width="450" /></p>
+</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=5unad0ke1&theme=aura)
 
