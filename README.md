@@ -6,11 +6,13 @@
 ---
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=5unad0ke1&show_icons=true&locale=en&theme=dark" alt="ovi" width="350"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5unad0ke1&show_icons=true&locale=en&theme=dark&layout=donut&langs_count=6" alt="ovi" width="300" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=5unad0ke1&show_icons=true&locale=en&theme=dark" alt="ovi" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5unad0ke1&show_icons=true&locale=en&theme=dark&layout=donut&langs_count=6" alt="ovi" height="150" /></p>
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=5unad0ke1&theme=aura)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=5unad0ke1)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=5unad0ke1.5unad0ke1&"  />
