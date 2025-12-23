@@ -7,12 +7,14 @@
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=5unad0ke1&show_icons=true&locale=en&theme=dark" alt="ovi" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5unad0ke1&show_icons=true&locale=en&theme=dark&layout=donut&langs_count=8" alt="ovi" height="150" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5unad0ke1&show_icons=true&locale=en&theme=dark&layout=donut&langs_count=10" alt="ovi" height="150" /></p>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=5unad0ke1&theme=aura&no-bg=true)
+![github-profile-trophy](https://github-profile-trophy-seven-phi.vercel.app/?username=5unad0ke1&theme=aura)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=5unad0ke1)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=5unad0ke1)](https://git.io/streak-stats)
+
+![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=5unad0ke1&theme=github-compact)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=5unad0ke1.5unad0ke1&"  />
