@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5unad0ke1&show_icons=true&locale=en&theme=dark&layout=donut&langs_count=10" alt="ovi" height="150" /></p>
 </p>
 
-![github-profile-trophy](https://github-profile-trophy-seven-phi.vercel.app/?username=5unad0ke1&theme=aura)
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=5unad0ke1&theme=aura)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=5unad0ke1)](https://git.io/streak-stats)
 
