@@ -14,7 +14,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=5unad0ke1)](https://git.io/streak-stats)
 
-![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=5unad0ke1&theme=github-compact)
+![github-readme-activity-graph](http://trophy.ryglcloud.net/?username=5unad0ke1&theme=github-compact)
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=5unad0ke1.5unad0ke1&"  />
