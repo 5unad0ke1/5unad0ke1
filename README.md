@@ -3,6 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=808080&width=450&lines=Welcome+to+my+profile.;I'm+5unad0ke1.;Nice+meeting+you."alt = "Mystic Welcome">
 </p>
 
+<a href="https://github.com/5unad0ke1"><img src="https://www.nuskey.md/github-devcard/api/devcard?username=5unad0ke1&amp;theme=github-dark&amp;pattern=hexagon&amp;layout=landscape&amp;stats=repos,followers,stars,prs,issues,commits" alt="5unad0ke1&apos;s GitHub DevCard" width="450"></a>
+
 ---
 
 <p align="left">
